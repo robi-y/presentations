@@ -1,4 +1,4 @@
-<img style="height: 20%; border: none;  background: none;" src="./img/azrieli-logo.jpg"/>
+<img style="height: 20%; border: none;  background: none; horizontal-align: middle" align="middle" src="./img/azrieli-logo.jpg"/>
 
 ### <font color="red">L</font>earning <font color="red">M</font>anagement <font color="red">S</font>ystems based on <font color="blue">Github</font><br/>A Collaborative Coding Online Service
 
@@ -45,7 +45,7 @@ Github usage poll
 - Not only for software development 
 - Also ongoing se research
 
-<img style="border: none;  background: none;"src="./img/github-logo.jpg" />
+<img style="border: none;  background: none; float:left"  src="./img/github-logo.jpg" />
 
 ---
 
@@ -58,20 +58,24 @@ Github usage poll
 - Submission & evaluation 
   - e.g., through the pull request mechanism
 
+--
 
 ---
 
 ## Benefits
 
 - Feature rich, especially for team work
-- Openness, Transparacy culture, social aspects
+- Openness, Transparacy culture, social aspects <!-- .element: class="fragment highlight-red" -->
 - Reuse and share course content (other instructors, students)
 - Industry using anyway
   - Academic licenses
-  - building professional portfolio <github-badge user="dhh" badge="octo"></github-badge>
+  - building professional portfolio 
+  
+--  
 
-
---
+<div>
+<github-badge user="dhh" badge="octo"></github-badge> <!-- .element: class="div" -->
+</div>
 
 
 ---
@@ -101,6 +105,14 @@ Github usage poll
 
 ---
 
+# More Resources
+
+0. [Social coding in GitHub: transparency and collaboration in an open software repository](http://dl.acm.org/citation.cfm?id=2145396), CSCW '12
+0. G. Wilson G, [GitHub for Education](http://software-carpentry.org/blog/2012/04/github-for-education.html), Software Carpentry Blog, '12
+0. [The Emergence of GitHub as a Collaborative Platform for Education](http://dl.acm.org/citation.cfm?id=2675284), CSCW '15 ([slides](https://speakerdeck.com/alexeyza/the-emergence-of-github-as-a-collaborative-platform-for-education))
+
+---
+
 # Conclusions & Discussion
 
 - Potential for relevant and meaningful learning
@@ -109,11 +121,3 @@ Github usage poll
 - Currently, not friendly enoug
   - Still emerging, e.g., classroom.guthub.com
   
----
-
-# More Resources
-
-0. [Social coding in GitHub: transparency and collaboration in an open software repository](http://dl.acm.org/citation.cfm?id=2145396), CSCW '12
-0. G. Wilson G, [GitHub for Education](http://software-carpentry.org/blog/2012/04/github-for-education.html), Software Carpentry Blog, '12
-0. [The Emergence of GitHub as a Collaborative Platform for Education](http://dl.acm.org/citation.cfm?id=2675284), CSCW '15 ([slides](https://speakerdeck.com/alexeyza/the-emergence-of-github-as-a-collaborative-platform-for-education))
-
