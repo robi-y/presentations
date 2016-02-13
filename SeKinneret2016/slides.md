@@ -10,7 +10,8 @@ Azrieli - The Jerusalem College of Engineering
 
 [robi@jce.ac.il](mailto://robi@jce.ac.il)
 
-######[Slides](https://github.com/robi-y/presentations) using [reveal.js](https://github.com/hakimel/reveal.js)
+###### 16/2/16
+###### Wiki Slides on [gh](https://github.com/robi-y/presentations) using [reveal.js](https://github.com/hakimel/reveal.js)
 
 Note:
 
