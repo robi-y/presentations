@@ -11,7 +11,7 @@ Azrieli - The Jerusalem College of Engineering
 [robi@jce.ac.il](mailto://robi@jce.ac.il)
 
 ###### 16/2/16
-###### Wiki Slides on [gh](https://github.com/robi-y/presentations) using [reveal.js](https://github.com/hakimel/reveal.js)
+###### Markdown Slides on [gh](https://github.com/robi-y/presentations) using [reveal.js](https://github.com/hakimel/reveal.js)
 
 Note:
 
@@ -30,12 +30,12 @@ Github usage poll
 
 ---
 
-## About Github
+## About Github 
 
 - Project management: code, docs, issues <!-- .element: class="fragment highlight-current-blue" -->
 - Based on the git DVCS <!-- .element: class="fragment highlight-current-blue" -->
 - Free for open source projects, but also private and enterprise services <!-- .element: class="fragment highlight-current-blue" -->
-- Pull requests and other services, e.g. static site hosting, 3rd party integrations <!-- .element: class="fragment highlight-current-blue" -->
+- <img height="40" style="vertcial-align: middle; border: none;  background: none" src="./img/repo-tabs-pull-requests.png"/> Pull requests and other services, e.g. static site hosting, 3rd party integrations <!-- .element: class="fragment highlight-current-blue" --> 
 
 #<img style="border: none;  background: none;"  src="./img/github-logo.jpg" />
 
@@ -113,10 +113,10 @@ Github usage poll
 
 ---
 
-## Some Resources
+## Related Resources
 
 0. [Social coding in GitHub: transparency and collaboration in an open software repository](http://dl.acm.org/citation.cfm?id=2145396), CSCW '12
-0. G. Wilson G, [GitHub for Education](http://software-carpentry.org/blog/2012/04/github-for-education.html), Software Carpentry Blog, '12
+0. [GitHub for Education](http://software-carpentry.org/blog/2012/04/github-for-education.html), G. Wilson, Software Carpentry Blog, '12
 0. [The Emergence of GitHub as a Collaborative Platform for Education](http://dl.acm.org/citation.cfm?id=2675284), CSCW '15 ([slides](https://speakerdeck.com/alexeyza/the-emergence-of-github-as-a-collaborative-platform-for-education))
 
 ---
@@ -129,4 +129,4 @@ Github usage poll
 - Currently, not friendly enough <!-- .element: class="fragment highlight-current-blue" -->
   - Still emerging, e.g., [classroom.github.com](classroom.github.com)
   
-##Thank you! <!-- .element: class="fragment highlight-blue" -->
+##Thank you! <!-- .element: class="fragment grow" -->
