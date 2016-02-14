@@ -27,6 +27,7 @@ Github usage poll
 - Examples
 - Resources
 - Discussion
+###### <img height="10%" style="border: none;  background: none;"  src="./img/polls-icon.png"/>
 
 ---
 
@@ -63,11 +64,13 @@ Github usage poll
 ## Benefits
 
 - Feature rich, especially for team work <!-- .element: class="fragment highlight-current-blue" -->
+  - Others: SourceForge, BitBucket, GitLab, ...
 - Openness, Transparency culture, social aspects <!-- .element: class="fragment highlight-current-blue" -->
 - Reuse and share course content (other instructors, students) <!-- .element: class="fragment highlight-current-blue" -->
 - Industry relevant <!-- .element: class="fragment highlight-current-blue" -->
   - Academic licenses
   - building professional portfolio 
+
 <p><github-badge user="dhh" badge="octo"></github-badge></p> <!-- .element: class="p" -->
 
 ---
@@ -77,12 +80,11 @@ Github usage poll
 - Vendor lock <!-- .element: class="fragment highlight-current-blue" -->
 - Entry barriers, Usability issues with git <!-- .element: class="fragment highlight-current-blue" -->
 - Missing features and services <!-- .element: class="fragment highlight-current-blue" -->
-  - class management
-  - e.g., visualization for task management.
-  - Forums
+  - class management, forums, ...
+  - Advcaned tools, e.g., visualization for task management.
   -> 3rd party
-- Validity of measured metrics <!-- .element: class="fragment highlight-current-blue" -->
 - Copyright issues <!-- .element: class="fragment highlight-current-blue" -->
+- Validity of measured metrics <!-- .element: class="fragment highlight-current-blue" -->
 
 > Chris Wanstrath (github founder):<br/> "[people came to github inspite of git](https://www.youtube.com/watch?v=6-FqUO_RzUo)"
 
