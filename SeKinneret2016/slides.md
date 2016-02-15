@@ -16,17 +16,18 @@ Azrieli - The Jerusalem College of Engineering
 Note:
 
 Github usage poll
+Can talk about slide source at the end too
 
 ---
 
 ## Agenda
 
 - Project Management Services and Github
-- Teaching usage, pros and cons
-- Application for software engineering courses
+- Application for teaching and software engineering courses
+- Pros and cons
 - Examples
-- Resources
 - Discussion
+- Resources
 ###### <img height="10%" style="border: none;  background: none;"  src="./img/polls-icon.png"/>
 
 ---
@@ -48,7 +49,7 @@ Github usage poll
 - Not only for software development <!-- .element: class="fragment highlight-current-blue" -->
   - [wired.com/2013/09/github-for-anything](http://www.wired.com/2013/09/github-for-anything)
   - [infoworld.com/article/.../github-for-the-rest-of-us](http://www.infoworld.com/article/2886828/collaboration-software/github-for-the-rest-of-us.html)
-- Popular as SE research target:<!-- .element: class="fragment highlight-current-blue" -->
+- Popular as SE research target: <!-- .element: class="fragment highlight-current-blue" -->
 
 --
 
@@ -64,24 +65,25 @@ Github usage poll
 
 ---
 
-## Usages for Software Engineering Courses
+## Teaching & Software Engineering Courses
 
 - Course material hosting <!-- .element: class="fragment highlight-current-blue" -->
 - Assignemts: instructions, examples & starter code <!-- .element: class="fragment highlight-current-blue" -->
-- Students' project management <!-- .element: class="fragment highlight-current-blue" -->
-
 - Submission & review  <!-- .element: class="fragment highlight-current-blue" -->
   - e.g., through pull requests<!-- .element: class="fragment highlight-current-blue" --> 
-
+  
+- Students' project management <!-- .element: class="fragment highlight-current-blue" -->
+  
 ---
 
 ## Benefits
 
-- Feature rich, especially for team work <!-- .element: class="fragment highlight-current-blue" -->
+- Feature rich, especially for learn by doing, team work <!-- .element: class="fragment highlight-current-blue" -->
   - Others: SourceForge, BitBucket, GitLab, ...
-- Culture: openness, transparency, collaboration / social <!-- .element: class="fragment highlight-current-blue" -->
+- Culture: openness, transparency, collaboration / social <!-- .element: class="fragment highlight-red" -->
+  - -> Creativity, Design thinking, Problem Solving
 - Reuse and share course content (other instructors, students) <!-- .element: class="fragment highlight-current-blue" -->
-- Industry relevant <!-- .element: class="fragment highlight-current-blue" -->
+- Industry relevant tool <!-- .element: class="fragment highlight-current-blue" -->
   - Academic licenses
   - building professional portfolio 
 
@@ -98,7 +100,7 @@ Github usage poll
    - class management, forums, ...
    - Advcaned PM tools
    - -> 3rd party
-- Copyright issues <!-- .element: class="fragment highlight-current-blue" -->
+- Privacy / Copyright issues <!-- .element: class="fragment highlight-current-blue" -->
 - Validity of measured metrics <!-- .element: class="fragment highlight-current-blue" -->
 
 > Chris Wanstrath (github co-founder):<br/> "[people came to github inspite of git](https://www.youtube.com/watch?v=6-FqUO_RzUo)"
@@ -130,20 +132,22 @@ Github usage poll
 
 ---
 
-## Related Resources
-
-0. [GitHub for Education](http://software-carpentry.org/blog/2012/04/github-for-education.html), G. Wilson, Software Carpentry Blog, '12
-0. [The Emergence of GitHub as a Collaborative Platform for Education](http://dl.acm.org/citation.cfm?id=2675284), CSCW '15 ([slides](https://speakerdeck.com/alexeyza/the-emergence-of-github-as-a-collaborative-platform-for-education))
-0. More on abstract
-
----
-
 ## Conclusions & Discussion
 
-- Potential for relevant and meaningful learning <!-- .element: class="fragment highlight-current-blue" -->
+- Free and accessible LMS for everyone <!-- .element: class="fragment highlight-current-blue" -->
+- Potential for relevant and meaningful learning <!-- .element: class="fragment highlight-red" -->
   - Especially for software engineering
 - Issue of plagiarism in an open knowledge era <!-- .element: class="fragment highlight-current-blue" -->
 - Currently, not friendly enough <!-- .element: class="fragment highlight-current-blue" -->
   - Still emerging, e.g., [classroom.github.com](classroom.github.com)
   
 ##Thank you! <!-- .element: class="fragment grow" -->
+###### Markdown Slides on [gh](https://github.com/robi-y/presentations) using [reveal.js](https://github.com/hakimel/reveal.js)
+
+---
+
+## Related Resources
+
+0. [GitHub for Education](http://software-carpentry.org/blog/2012/04/github-for-education.html), G. Wilson, Software Carpentry Blog, '12
+0. [The Emergence of GitHub as a Collaborative Platform for Education](http://dl.acm.org/citation.cfm?id=2675284), CSCW '15 ([slides](https://speakerdeck.com/alexeyza/the-emergence-of-github-as-a-collaborative-platform-for-education))
+0. More on abstract
