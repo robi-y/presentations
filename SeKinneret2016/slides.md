@@ -79,7 +79,7 @@ Can talk about slide source at the end too
 ## Benefits
 
 - Feature rich, especially for learn by doing, team work <!-- .element: class="fragment highlight-current-blue" -->
-  - Others: SourceForge, BitBucket, GitLab, ...
+  - Others: SourceForge, BitBucket, GitLab, Attlasain, ...
 - Culture: openness, transparency, collaboration / social <!-- .element: class="fragment highlight-red" -->
   - -> Creativity, Design thinking, Problem Solving
 - Reuse and share course content (other instructors, students) <!-- .element: class="fragment highlight-current-blue" -->
@@ -99,7 +99,7 @@ Can talk about slide source at the end too
 - Missing features and services: <!-- .element: class="fragment highlight-current-blue" -->
    - class management, forums, ...
    - Advcaned PM tools
-   - -> 3rd party
+   - -> enough for course level, 3rd party completion
 - Privacy / Copyright issues <!-- .element: class="fragment highlight-current-blue" -->
 - Validity of measured metrics <!-- .element: class="fragment highlight-current-blue" -->
 
@@ -142,7 +142,7 @@ Can talk about slide source at the end too
   - Still emerging, e.g., [classroom.github.com](classroom.github.com)
   
 ##Thank you! <!-- .element: class="fragment grow" -->
-###### Markdown Slides on [gh](https://github.com/robi-y/presentations) using [reveal.js](https://github.com/hakimel/reveal.js)
+###### Send your PRs to https://github.com/robi-y/presentations :-)
 
 ---
 
