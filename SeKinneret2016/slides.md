@@ -68,7 +68,7 @@ Can talk about slide source at the end too
 ## Teaching & Software Engineering Courses
 
 - Course material hosting <!-- .element: class="fragment highlight-current-blue" -->
-- Assignemts: instructions, examples & starter code <!-- .element: class="fragment highlight-current-blue" -->
+- Assignments: instructions, examples & starter code <!-- .element: class="fragment highlight-current-blue" -->
 - Submission & review  <!-- .element: class="fragment highlight-current-blue" -->
   - e.g., through pull requests<!-- .element: class="fragment highlight-current-blue" --> 
   
