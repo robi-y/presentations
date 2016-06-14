@@ -1,6 +1,6 @@
 #<img style="height: 20%; border: none;  background: none" src="./img/azrieli-logo-yellow.jpg"/>
 
-### Engineering Education Using Online Collaborative Coding Services
+### <font color="red">L</font>earning <font color="red">M</font>anagement <font color="red">S</font>ystems based on <font color="blue">Github</font><br/>A Collaborative Coding Online Service
 
 #### Reuven Yagel
 
@@ -10,7 +10,7 @@ Azrieli - The Jerusalem College of Engineering
 
 [robi@jce.ac.il](mailto://robi@jce.ac.il)
 
-###### 22/6/16
+###### 16/2/16
 ###### Markdown Slides on [gh](https://github.com/robi-y/presentations) using [reveal.js](https://github.com/hakimel/reveal.js)
 
 Note:
@@ -34,10 +34,10 @@ Can talk about slide source at the end too
 
 ## About Github 
 
-- Project management: code, docs, issues 
-- Based on the git DVCS 
-- Free for open source projects, but also private and enterprise services 
-- <img height="40" style="vertcial-align: middle; border: none;  background: none" src="./img/repo-tabs-pull-requests.png"/> Branches and pull request interface, other services, e.g. static site hosting, integrations  
+- Project management: code, docs, issues <!-- .element: class="fragment highlight-current-blue" -->
+- Based on the git DVCS <!-- .element: class="fragment highlight-current-blue" -->
+- Free for open source projects, but also private and enterprise services <!-- .element: class="fragment highlight-current-blue" -->
+- <img height="40" style="vertcial-align: middle; border: none;  background: none" src="./img/repo-tabs-pull-requests.png"/> Branches and pull request interface, other services, e.g. static site hosting, integrations <!-- .element: class="fragment highlight-current-blue" --> 
 
 #<img style="border: none;  background: none;"  src="./img/github-logo.jpg" />
 
@@ -45,11 +45,11 @@ Can talk about slide source at the end too
 
 ## [github.com/about](https://github.com/about)
     
-- 12M+ users (developers?), 31M+ repositories 
-- Not only for software development 
+- 12M+ users (developers?), 31M+ repositories <!-- .element: class="fragment highlight-current-blue" -->
+- Not only for software development <!-- .element: class="fragment highlight-current-blue" -->
   - [wired.com/2013/09/github-for-anything](http://www.wired.com/2013/09/github-for-anything)
   - [infoworld.com/article/.../github-for-the-rest-of-us](http://www.infoworld.com/article/2886828/collaboration-software/github-for-the-rest-of-us.html)
-- Popular as SE research target: 
+- Popular as SE research target: <!-- .element: class="fragment highlight-current-blue" -->
 
 --
 
@@ -67,24 +67,23 @@ Can talk about slide source at the end too
 
 ## Teaching & Software Engineering Courses
 
-- Course material hosting 
-- Assignments: instructions, examples & starter code 
-- Submission & review  
-  - e.g., through pull requests 
+- Course material hosting <!-- .element: class="fragment highlight-current-blue" -->
+- Assignments: instructions, examples & starter code <!-- .element: class="fragment highlight-current-blue" -->
+- Submission & review  <!-- .element: class="fragment highlight-current-blue" -->
+  - e.g., through pull requests<!-- .element: class="fragment highlight-current-blue" --> 
   
-- Students' project management 
-  - Team work 
+- Students' project management <!-- .element: class="fragment highlight-current-blue" -->
   
 ---
 
 ## Benefits
 
-- Feature rich, especially for learn by doing, team work 
+- Feature rich, especially for learn by doing, team work <!-- .element: class="fragment highlight-current-blue" -->
   - Others: SourceForge, BitBucket, GitLab, Attlasain, ...
 - Culture: openness, transparency, collaboration / social <!-- .element: class="fragment highlight-red" -->
   - -> Creativity, Design thinking, Problem Solving
-- Reuse and share course content (other instructors, students) 
-- Industry relevant tool 
+- Reuse and share course content (other instructors, students) <!-- .element: class="fragment highlight-current-blue" -->
+- Industry relevant tool <!-- .element: class="fragment highlight-current-blue" -->
   - Academic licenses
   - building professional portfolio 
 
@@ -95,14 +94,14 @@ Can talk about slide source at the end too
 
  ## Limitations
  
-- Vendor lock 
-- Entry barriers, Usability issues with git 
-- Missing features and services: 
+- Vendor lock <!-- .element: class="fragment highlight-current-blue" -->
+- Entry barriers, Usability issues with git <!-- .element: class="fragment highlight-current-blue" -->
+- Missing features and services: <!-- .element: class="fragment highlight-current-blue" -->
    - class management, forums, ...
    - Advcaned PM tools
    - -> enough for course level, 3rd party completion
-- Privacy / Copyright issues 
-- Validity of measured metrics 
+- Privacy / Copyright issues <!-- .element: class="fragment highlight-current-blue" -->
+- Validity of measured metrics <!-- .element: class="fragment highlight-current-blue" -->
 
 > Chris Wanstrath (github co-founder):<br/> "[people came to github inspite of git](https://www.youtube.com/watch?v=6-FqUO_RzUo)"
 
@@ -135,11 +134,11 @@ Can talk about slide source at the end too
 
 ## Conclusions & Discussion
 
-- Free and accessible LMS for everyone 
+- Free and accessible LMS for everyone <!-- .element: class="fragment highlight-current-blue" -->
 - Potential for relevant and meaningful learning <!-- .element: class="fragment highlight-red" -->
   - Especially for software engineering
-- Issue of plagiarism in an open knowledge era 
-- Currently, not friendly enough 
+- Issue of plagiarism in an open knowledge era <!-- .element: class="fragment highlight-current-blue" -->
+- Currently, not friendly enough <!-- .element: class="fragment highlight-current-blue" -->
   - Still emerging, e.g., [classroom.github.com](classroom.github.com)
   
 ##Thank you! <!-- .element: class="fragment grow" -->
